@@ -81,7 +81,7 @@ function App() {
         {/* DESCRIPTION  */}
         <div className="description">
           <h1>想要捐以太幣給可憐的金屬樂手嗎</h1>
-          <h3>Full stack dapp using ReactJS and Hardhat</h3>
+          <h3>ReactJS ＋ Hardhat</h3>
         </div>
         {/* BUTTONS - Fetch and Set */}
         <div className="custom-buttons">
