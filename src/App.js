@@ -80,7 +80,7 @@ function App() {
       <div className="App-header">
         {/* DESCRIPTION  */}
         <div className="description">
-          <h1>Greeter.sol</h1>
+          <h1>想要捐以太幣給可憐的金屬樂手嗎</h1>
           <h3>Full stack dapp using ReactJS and Hardhat</h3>
         </div>
         {/* BUTTONS - Fetch and Set */}
@@ -100,7 +100,7 @@ function App() {
         />
 
         {/* Current Value stored on Blockchain */}
-        <h2 className="greeting">Greeting: {currentGreeting}</h2>
+        <h2 className="greeting"> {currentGreeting}</h2>
       </div>
     </div>
   );
